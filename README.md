@@ -84,4 +84,4 @@ there, at the float build's cost.
 ## License
 
 MIT (see [LICENSE](LICENSE)). The shader is ported from NVIDIA Image Scaling, MIT, Copyright (c) 2022 NVIDIA
-CORPORATION & AFFILIATES; its notice is in [LICENSE](LICENSE) and at the top of the shader source.
+CORPORATION & AFFILIATES; its notice is in [NOTICE](NOTICE) and at the top of the shader source.
